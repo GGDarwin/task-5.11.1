@@ -1,0 +1,37 @@
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background-color: bisque;
+    background: url('https://images.unsplash.com/photo-1560436379-c22ff923ff14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fCVEMCVCNiVEMCVCNSVEMCVCQiVEMSU4MiVEMSU4QiVEMCVCOXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60') bottom no-repeat;
+    background-size: cover;
+}
+
+body {
+    margin: o;
+    padding: 0;
+}
+
+h1 {
+color: brown;
+font-size: 4rem;
+font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+    color: azure;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    background-color: aqua;
+}
+
+h5 {
+    background-color: aquamarine;
+}
